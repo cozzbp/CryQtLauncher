@@ -6,7 +6,7 @@ The launcher should work with any version of CRYENGINE (FreeSDK or EAAS).  Pleas
 
 CRYENGINE FreeSDK MUST BE obtained from www.cryengine.com, and used within the license terms.
 
-CryQtLauncher utilizes Qt 5.4.2 and can be obtained from http://tver-soft.org/qt64
+CryQtLauncher utilizes Qt 5.4.2 and can be obtained from http://tver-soft.org/qt64, or the latest version can be obtained from https://www.qt.io/download/
 
 
 # Copyright Info
